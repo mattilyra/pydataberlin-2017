@@ -13,3 +13,5 @@ The talk covers evaluation measures for topic models including
 - human judgement based methods
   - word intrusion
   - topic intrusion
+
+Refer to the notebook for model training, creating the visualisation and running the evaluation metrics.
